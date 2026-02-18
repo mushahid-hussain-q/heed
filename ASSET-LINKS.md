@@ -2,6 +2,15 @@
 
 All assets are accessible via raw GitHub URLs. Each file is organized by its service category and type.
 
+## Client Logos
+- Asset 1.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%201.svg
+- Asset 10.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%2010.svg
+- Asset 13.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%2013.svg
+- Asset 15.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%2015.svg
+- Asset 2.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%202.svg
+- Asset 3.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%203.svg
+- Asset 32.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Client%20Logos/Asset%2032.svg
+
 ## Collateral Services/3D Floorplans
 - TRU_202.jpg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Collateral%20Services/3D%20Floorplans/TRU_202.jpg
 - TRU_262.jpg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Collateral%20Services/3D%20Floorplans/TRU_262.jpg
@@ -75,6 +84,9 @@ All assets are accessible via raw GitHub URLs. Each file is organized by its ser
 - Broucher-Mockup-12-scaled.jpg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Misc%20extras/Broucher-Mockup-12-scaled.jpg
 - Citylight_Mockup_2-scaled.jpg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Misc%20extras/Citylight_Mockup_2-scaled.jpg
 
+## Page Assets
+- Highest rated.svg: https://raw.githubusercontent.com/mushahid-hussain-q/heed/main/Page%20Assets/Highest%20rated.svg
+
 ---
 
-**Total Assets:** 47 files across 13 categories
+**Total Assets:** 55 files across 15 categories
